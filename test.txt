@@ -4,3 +4,5 @@ this is line 3
 this is line 4
 This is feature update 1
 This is feature update 2
+This is master update 1
+This is master update 2
